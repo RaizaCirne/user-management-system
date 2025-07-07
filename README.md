@@ -91,14 +91,13 @@ A aplicação estará disponível em:
 
 Backend: http://localhost:3001 (ou porta configurada)</br>
 Frontend: http://localhost:3000
-    
-## Observações
-
-É necessário ter o MongoDB rodando localmente ou usar MongoDB Atlas. Certifique-se de iniciar o backend antes do frontend. Use Postman para testar as rotas da API.
 
 ## :video_camera: Video
 
-## :sunglasses: Informações <a name="id011"></a>
+https://github.com/user-attachments/assets/cf7e7d04-e130-499e-acef-ec2080a4454f
+
+## :sunglasses: Informações 
+
 
 <br />
 
